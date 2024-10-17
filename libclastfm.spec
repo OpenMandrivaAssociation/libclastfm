@@ -15,7 +15,7 @@ Summary:        Unofficial C-API for the Last.fm web service
 
 Group:          System/Libraries
 License:        GPLv3+
-URL:            http://liblastfm.sourceforge.net/
+URL:            https://liblastfm.sourceforge.net/
 Source0:        %{name}-%{version}_p20120315.tar.xz
 BuildRequires:  libtool
 BuildRequires:  libcurl-devel
