@@ -17,6 +17,11 @@ Group:          System/Libraries
 License:        GPLv3+
 URL:            https://liblastfm.sourceforge.net/
 Source0:        %{name}-%{version}_p20120315.tar.xz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  libtool
 BuildRequires:  libcurl-devel
 
